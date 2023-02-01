@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<title>Online HTML Editor</title>
+<head >
+    <style>
+        body{
+            background-color:red;
+            font-family:'Helvetica';
+        }
+    </style>
+    <style>
+        div{
+            color:white;
+            font-family:cursive;
+        }
+    </style>
+    <style>
+        #welcome-message{
+            background-color:green;
+            color:white;
+            font-family:fantasy;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Online HTML Editor</h1>
+<div>This is real time online HTML Editor</div>
+<p id='welcome-message'><strong>Welcome to the HTML editor</strong></p>
+<ul>
+    <li><a href='#think'>Characters I can think of<a/></li>
+    <li><a href='#freeza'>Bow down</a></li>
+</ul>
+<p id='storm'><strong>Bury the light</strong></p>
+<p>I am the storm that is approaching<br>provoking<br>black clouds in isolaion<br>I am reclaimer of my name</p>
+<h2 id='think'><ins>Characters I can think of right now</ins></h2>
+<table colspan='2'>
+    <thead>
+        <tr>
+            <td><strong>Name</strong></td>
+            <td><strong>From</strong></td>
+            <td><strong>Age</strong></td>
+            <td><strong>Source</strong></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Makoto yuki</td>
+            <td>Persona series</td>
+            <td>17 years</td>
+            <td>Video game</td>
+        </tr>
+    </tbody>
+      <tbody>
+        <tr>
+            <td>Yu Narukami</td>
+            <td>Persona series</td>
+            <td>17 years</td>
+            <td>Video game</td>
+        </tr>
+    </tbody>
+      <tbody>
+        <tr>
+            <td>Leon kennedy</td>
+            <td>Resident Evil series</td>
+            <td>28 years</td>
+            <td>Video game</td>
+        </tr>
+    </tbody>
+      <tbody>
+        <tr>
+            <td>Dante</td>
+            <td>Devil may cry</td>
+            <td>44 years</td>
+            <td>Video game</td>
+        </tr>
+    </tbody>
+      <tbody>
+        <tr>
+            <td>Sasuke uchiha</td>
+            <td>Naruto/boruto</td>
+            <td>33 years</td>
+            <td>Anime</td>
+        </tr>
+    </tbody>
+      <tbody>
+        <tr>
+            <td>vergil</td>
+            <td>Devil may cry</td>
+            <td>45 years</td>
+            <td>Video game</td>
+        </tr>
+    </tbody>
+</table>
+<h2 id='freeza' align='center'><ins>Bow down</ins></h2>
+<p align='center'><strong>Divide music ft <br>Fabvl</strong></p>
+<p align='center'>Iv'e come to give you<br>The very last words that will ever leave your lips<br>Your bitter end my finger tips<br>I relish power<br>You spineless coward<br>You're nothing more than what you see<br>Uncover weakness underneath</p>
+<p align='center'>And you will beg that I give your planet just a little longer<br>But I would die before I would ever give up any power</p></p>
+<p align='center'>Bow down on your knees you're  in over your head<br>Bow down down I will freeze and you'll be left for dead<br>Bow down to your king and let the name be heard <br>Bow down as they scream out their final words</p>
+<ul>
+    <li><a href='#storm'>bury the light</a></li>
+    
+</ul>
+
+</body>
+</html>
